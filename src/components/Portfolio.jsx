@@ -43,17 +43,17 @@ const Portfolio = () => {
         <ProjectCard
           title="Tic Tac Toe"
           description="The classic game."
-          imageUrl="./src/assets/tic-tac-toe.jpg"
+          imageUrl="./assets/tic-tac-toe.jpg"
         />
         <ProjectCard
           title="Project Two"
           description="A portfolio project showcasing modern UI/UX design."
-          imageUrl="./src/assets/project2.jpg"
+          imageUrl="./assets/project2.jpg"
         />
         <ProjectCard
           title="Task List"
           description="An interactive application built for making TO-DO lists."
-          imageUrl="./src/assets/task-list.jpg"
+          imageUrl="./assets/task-list.jpg"
         />
       </motion.section>
 
