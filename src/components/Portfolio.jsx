@@ -44,16 +44,19 @@ const Portfolio = () => {
           title="Tic Tac Toe"
           description="The classic game."
           imageUrl="./assets/tic-tac-toe.jpg"
+          link="https://aguli-me.github.io/TicTacToe/"
         />
         <ProjectCard
           title="Project Two"
           description="A portfolio project showcasing modern UI/UX design."
           imageUrl="./assets/project2.jpg"
+          link="https://aguli-me.github.io/TicTacToe/"
         />
         <ProjectCard
           title="Task List"
           description="An interactive application built for making TO-DO lists."
           imageUrl="./assets/task-list.jpg"
+          link="https://task-manager-373d5.web.app/"
         />
       </motion.section>
 
